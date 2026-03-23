@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there, I'm Prakhar Vishwakarma👋
 
-<!--
-**Prakhar16Leo/Prakhar16Leo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a pharmaceutical graduate currently pursuing an MBA in Healthcare and Data Science, with a strong focus on data analytics in healthcare and business environments.
 
-Here are some ideas to get you started:
+My interest lies in using data to improve decision-making in the pharmaceutical and healthcare sectors. To support this, I have developed skills in SQL, Python, Excel, and Power BI for data analysis, visualization, and insight generation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am actively building projects that combine domain knowledge with data analytics to solve problems such as sales performance analysis, customer insights, and operational efficiency.
+
+## Skills
+- SQL
+- Python
+- Excel
+- Power BI
+- Data Analysis
+- Data Visualization
+
+## Background
+Pharma Graduate  
+MBA (Healthcare & Data Science)
+
+## Projects
+- Superstore-Sales-Delivery-Analysis (SQL)
